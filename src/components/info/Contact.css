@@ -1,0 +1,57 @@
+#contact {
+    width: inherit;
+    margin: inherit;
+    padding: inherit;
+    padding-left: 43px;
+    padding-right: 43px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+}
+
+#contact > button {
+    width: 115px;
+    height: 35px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 6px;
+    font-style: medium;
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#email {
+    background-color: #ffffff;
+    border-color: #c4c8ce;
+    color: #374151;
+    margin: 0;
+    padding: 0;
+    margin-right: 7px;
+}
+
+#linkedin {
+    background-color: #5093e2;
+    border-color: #5093e2;
+    color: #ffffff;
+    margin: 0;
+    padding: 0;
+    margin-left: 7px;
+}
+
+svg {
+    max-width: 1em;
+    height: 0.9em;
+    background-color: inherit;
+    padding-right: 5px;
+}
+
+#email > svg {
+    fill: #374151;
+}
+
+#linkedin > svg {
+    fill: #ffffff;
+}

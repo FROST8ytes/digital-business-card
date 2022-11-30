@@ -1,0 +1,23 @@
+#footer {
+    width: 316px;
+    margin: inherit;
+    margin-left: 43px;
+    margin-right: 43px;
+    border-radius: 0 0 10px 10px;
+    background-color: #161619;
+    display: flex;
+    justify-content: center;
+    column-gap: 20px;
+    align-items: center;
+    padding: 25px;
+}
+
+#footer > a {
+    background-color: transparent;
+}
+
+#footer > a > img {
+    height: 25px;
+    background-color: transparent;
+    filter: invert(50%);
+}

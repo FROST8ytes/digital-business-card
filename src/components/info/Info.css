@@ -1,0 +1,16 @@
+#info {
+    width: 316px;
+    margin: inherit;
+    padding: inherit;
+    background-color: #1a1b21;
+    border-radius: 10px 10px 0 0;
+}
+
+#portrait-img {
+    margin: inherit;
+    padding: inherit;
+    border-radius: inherit;
+    width: inherit;
+    height: 316px;
+    object-fit: cover;
+}

@@ -1,0 +1,26 @@
+#interests {
+    width: 316px;
+    background-color: #1a1b21;
+    margin: inherit;
+    padding-top: 15px;
+    padding-left: 43px;
+    padding-right: 43px;
+    padding-bottom: 30px;
+}
+
+#interests > * {
+    background-color: transparent;
+}
+
+#interests-title {
+    font-size: 16px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+#interests-content {
+    color: #dcdcdc;
+    font-size: 10px;
+    padding-top: 10px;
+    text-align: justify;
+}

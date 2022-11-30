@@ -1,0 +1,37 @@
+#info-text {
+    margin: inherit;
+    padding: inherit;
+    margin-top: 10px;
+    padding-left: 43px;
+    padding-right: 43px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: inherit;
+}
+
+#name {
+    background-color: inherit;
+    font-size: 25px;
+    color: #ffffff;
+}
+
+#job-title {
+    background-color: inherit;
+    font-size: 13px;
+    color: #f3bf99;
+    padding-bottom: 5px;
+}
+
+#website {
+    background-color: inherit;
+    padding-bottom: 7px;
+}
+
+#website > a {
+    background-color: inherit;
+    text-decoration: none;
+    color: #9f9f9f;
+    font-size: 11px;
+}
