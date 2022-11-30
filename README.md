@@ -1,7 +1,7 @@
 # Digital Business Card
 A personal project from Scrimba's React course. This project only covers the composability of React, without diving into routers etc.
 This project uses Vite for fast deployment compared to using normal `create-react-app`, which uses webpack bundler. Vite uses esbuild,
-which is ⚡_lightning fast_⚡.
+which is ⚡*lightning fast*⚡.
 
 ### How to Run
 To run the project, ensure that `node.js` is installed as this requires `npm`.
